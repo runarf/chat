@@ -1,6 +1,8 @@
 [submodule "chatFrontend"]
 	path = chatFrontend
 	url = https://github.com/runarf/chatFrontend.git
+	branch = master
 [submodule "chatBackend"]
 	path = chatBackend
 	url = https://github.com/runarf/chatBackend.git
+	branch = master
